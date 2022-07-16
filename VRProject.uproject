@@ -33,30 +33,12 @@
 			]
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "OpenXRMsftHandInteraction",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win32",
 				"Win64",
 				"HoloLens",
-				"Android"
-			]
-		},
-		{
-			"Name": "OculusVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
 				"Android"
 			]
 		}
